@@ -4,38 +4,4 @@ To install:
 1. Make sure you have LuckPerms on the Spigot/Paper servers, and connect them using MySQL if BungeeCord
 2. Configure the MySQL settings for PlayTimePlus if BungeeCord.
 3. Install PlayTimeRankup (this plugin) on all servers, but not the BungeeCord if applicable.
-4. Open the config.yml in the folder PlayTimeRankup. The config will look like this (as of v1.3):
-     
-     ##############################################################################
-     ##############################################################################
-     #### I initially made this for my server, the FloofNetwork, as nothing    ####
-     #### like it exists. I decided to make it open source. You can help me    ####
-     #### out by donating at paypal.me/TheFloofNetwork, or by checking out my  ####
-     #### server, play.FloofNetwork.com.                                       ####
-     ##############################################################################
-     ##############################################################################
-
-
-                          ################   #######       ####
-                          ################   ########      ####
-                          ####               #### ####     ####
-                          ############       ####  ####    ####
-                          ############       ####   ####   ####
-                          ####               ####    ####  ####
-                          ####               ####     #### ####
-                          ####               ####      ########
-                          ####               ####       #######
-
-
-# Playtime is in hours. This is how long the person has to play before going to the group mentioned below this
-playtime: 2
-
-# Name of the group in LuckPerms. If you do not have LuckPerms, contact me on Discord, HaloFloof#2114,
-# and I will edit it to be custom for you.
-group: member
-
-
-# Please o please do not change this.
-version: 1.3
-
-Config is pretty self explanatory.
+4. Open the config.yml in the folder PlayTimeRankup. Config is pretty self explanatory.
