@@ -1,7 +1,0 @@
-main: me.HaloFloof.main.Main
-name: PTR
-version: 1.1
-author: HaloFloof
-
-commands:
-  PTR:

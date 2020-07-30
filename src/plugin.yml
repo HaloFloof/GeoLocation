@@ -1,0 +1,9 @@
+main: me.HaloFloof.geolocation.Main
+name: GeoLocation
+version: 1.0.0
+author: HaloFloof
+api-version: 1.16
+
+commands:
+  geolocate:
+    description: GeoLocate a player based on their IP address.
